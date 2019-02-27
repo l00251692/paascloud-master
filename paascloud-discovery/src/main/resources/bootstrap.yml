@@ -4,8 +4,8 @@ spring:
       server:
         git:
           uri: https://github.com/l00251692/paascloud-config-repo.git
-          username:l00251692
-          password:todd1qaz@WSX
+          username: l00251692
+          password: todd1qaz@WSX
           search-paths: /*
           default-label: ${spring.profiles.active}
           basedir: /data/config/paascloud-config-repo
